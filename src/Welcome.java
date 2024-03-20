@@ -69,10 +69,10 @@ public class Welcome {
 					System.out.print("8. 종료:");
 					quit = true;
 					break;
-				}
+				}//switch문 끝
 
-			}
-	   }
+			}// if else문 끝
+	   }//while문
 
 	}
 		
